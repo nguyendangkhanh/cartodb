@@ -1242,9 +1242,9 @@
       }
     },
     "internal-carto.js": {
-      "version": "4.0.7-3",
-      "from": "cartodb/carto.js#v4.0.7-3",
-      "resolved": "git://github.com/cartodb/carto.js.git#8745f95151e804151889d9120476c3d7d57833b5"
+      "version": "4.0.8-support1566",
+      "from": "cartodb/carto.js#support1566-fix-legends-margins",
+      "resolved": "git://github.com/cartodb/carto.js.git#76888a86fd9a8e01aea90451c5ecc88ff7fe9fd8"
     },
     "interpret": {
       "version": "1.1.0",
